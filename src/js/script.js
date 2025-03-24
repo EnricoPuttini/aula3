@@ -1,3 +1,7 @@
 alert("Hello world");
-let nome = Enrico    
-let idade = 18
+
+//VARIAVEIS E DECLARAÇÃO
+
+var nome = "Fiap";
+console.log(nome);
+
